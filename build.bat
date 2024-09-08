@@ -1,2 +1,3 @@
 @echo off
-python -m nuitka AstroRaider.py
+echo there is nothing here
+pause
